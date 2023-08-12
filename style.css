@@ -1,9 +1,12 @@
-h1{
-    color: darkblue;
+.get{
+    color: blue;
 }
-h2{
-    color: blueviolet;
+.id{
+    color: chocolate;
+}
+.put{
+    color: crimson;
 }
 p{
-    color: darkred;
+    color: gold;
 }
