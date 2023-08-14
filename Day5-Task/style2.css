@@ -1,0 +1,9 @@
+.put{
+color: white;
+/* background-image: repeating-linear-gradient(120deg,rgb(255, 106, 0) 10%,rgb(255, 230, 0)40%,rgb(0, 128, 87) 20%,rgb(0, 85, 255)20%); */
+background-repeat: no-repeat;
+background-image:conic-gradient(red,green,yellow,blue,indigo,violet);
+height: 500px;
+width: 500px;
+border-radius: 50%;
+}
