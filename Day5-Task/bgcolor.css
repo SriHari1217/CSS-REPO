@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+   
+}
+.content1{
+    background-color: blue;
+    padding: 20px;
+}
+.content2{
+    background-color: brown;
+    padding: 20px;
+}
+.content3{
+    background-color: darkgray;
+    padding: 20px;
+}
