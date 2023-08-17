@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/ASHH5bDmsp6wnK6mEfZdcU-1200-80.jpg"), url("title-swing-in-the-living-room.jpg"); 
+    background-repeat: no-repeat,no-repeat;
+    background-attachment:scroll,fixed;
+    background-size: 300px 300px,cover;  
+}
+.contain{
+    background-color: blueviolet;
+    height: 200px;
+    width: 300px;
+    border: 10px dotted green;
+    padding: 20px;
+    background-clip: content-box;
+}
+.container{
+    background-color: blueviolet;
+    height: 200px;
+    width: 300px;
+    border: 10px dotted green;
+    padding: 20px;
+    background-clip: padding-box;
+}
+.contained{
+    background-color: blueviolet;
+    height: 200px;
+    width: 300px;
+    border: 10px dotted green;
+    padding: 20px;
+    background-clip: border-box;
+}
+
+
