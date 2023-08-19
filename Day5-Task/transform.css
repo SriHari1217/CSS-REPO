@@ -1,0 +1,42 @@
+.content1{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border: 4px solid black;
+    margin: 6px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.content2{
+   
+    height: 200px;
+    width: 200px;
+    border: 4px solid black;
+    margin: 6px
+}
+.content3{
+    background-color:crimson;
+    height: 200px;
+    width: 200px;
+    border: 4px solid black;
+    margin: 6px;
+}
+.content1:hover{
+    transform: rotate(90deg);
+    transition-duration: 5s;
+}
+.content3:hover{
+    transform: skewy(45deg);
+    transition-duration: 5s;
+    transition-delay: 500ms;
+}
+.content2:hover{
+    
+    transform:translate(30px,20px);
+    transition-duration: 500ms;
+}
+p:hover{
+    transform: translate(30px,20px);
+}
