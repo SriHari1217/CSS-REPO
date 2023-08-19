@@ -1,0 +1,30 @@
+a:hover{
+    color: crimson;
+    text-decoration: none;
+    font-size: 50px;
+}
+a:link{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 40px;
+}
+li{
+    font-size: 30px;
+}
+a:visited{
+    color: blueviolet;
+    
+}
+li:first-child{
+    color: crimson;
+}
+li:last-child{
+    color: blue;
+}
+li:nth-child(even){
+    color: darkmagenta;
+}
+li:nth-child(odd){
+    color: forestgreen;
+}
