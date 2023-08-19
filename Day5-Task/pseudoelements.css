@@ -1,0 +1,24 @@
+div p::first-letter{
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+}
+div p::first-line{
+    color: deepskyblue;
+    font-size: 20px
+}
+.content::before{
+    content: "this is very useful";
+    color: blueviolet;
+}
+.content::after{
+    content: "this is very useful";
+    color: blue;
+}
+p::selection{
+    background-color: chartreuse;
+}
+::marker{
+    color: brown;
+}
+
