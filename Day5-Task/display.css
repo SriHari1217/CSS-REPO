@@ -1,0 +1,51 @@
+.content1{
+    background-color: blue;
+    border: 2px solid blue;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    
+}
+.content2{
+    background-image: conic-gradient(green,black,white,violet,pink,yellow);
+    border: 2px solid blue;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+.content3{
+   background-image:radial-gradient(red,blue,green);
+    border: 2px solid blue;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    
+}
+.content4{
+    background-image: conic-gradient(red,blue,yellow,orange);
+    border: 2px solid blue;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+
+}
+.content5{
+    background-image: linear-gradient(red,blue);
+    border: 2px solid blue;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+   
+    
+    
+   
+
+    
+}

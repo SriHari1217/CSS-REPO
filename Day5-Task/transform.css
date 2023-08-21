@@ -24,18 +24,18 @@ img{
     margin: 6px;
 }
 .content1:hover{
-    transform: rotate(90deg);
+    transform:rotateX(150deg) rotateY(300deg);
     transition-duration: 5s;
 }
 .content3:hover{
-    transform: skewy(45deg);
-    transition-duration: 5s;
-    transition-delay: 500ms;
+    transform: scale(2,2);
+    transition-duration: 5s infinite;
+   
 }
 .content2:hover{
     
-    transform:translate(30px,20px);
-    transition-duration: 500ms;
+    transform:rotateX(180deg) rotateY(360deg);
+    transition-duration: 5s;
 }
 p:hover{
     transform: translate(30px,20px);
