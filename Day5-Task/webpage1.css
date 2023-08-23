@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(0, 0, 0, 0.301);
+    background-image: url("https://marketplace.canva.com/EAFXS8-cvyQ/1/0/1600w/canva-brown-and-light-brown%2C-circle-framed-instagram-profile-picture-2PE9qJLmPac.jpg");
+   background-size: 500px 500px;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: 100% 100%;
+}
+.content1{
+    width: 50px;
+}
+h2{
+    display: inline;
+    color: white;
+}
+.head{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    top: -45px;  
+}
+a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+.container{
+    margin-top: 150px;
+   width: 50%;
+   margin-left: 100px;
+
+}
+span{
+    color: red;
+}

@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://img.freepik.com/premium-vector/courier-with-parcel-background-courier-service-van-truck-container-trainer_327176-222.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+}
+.content{
+    display: flex;
+    white-space: nowrap;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: rgb(204, 189, 189); 
+    font-size: 20px;
+}
+.content3{
+   margin-top: 230px;
+   margin-left: 200px;
+}
+.container1{
+    font-size: 50px;
+    font-weight: 200;
+}
+.container2{
+    font-size: 20px;
+}
+.container3{
+    padding: 10px;
+    background-color: orange;
+    color: white;
+}
+h2{
+    display: inline;
+    color: orange;
+}

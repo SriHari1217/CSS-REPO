@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(red,blue);
+   background-repeat: no-repeat;
+}
+table,td{
+    border: 2px solid ;
+    border-color: rgba(94, 253, 200, 0.82);
+    border-collapse: collapse;
+    height: 50px;
+    width: 70vw;
+    background-color: aqua;
+    text-align: center;
+    margin: 200px;
+    color: white;
+    
+}
+.content1{
+    font-size: 40px;
+}
+#escape{
+background-color:aquamarine;
+}

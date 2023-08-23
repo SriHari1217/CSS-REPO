@@ -1,0 +1,31 @@
+.content1{
+    background-color: yellow;
+    width: 600px;
+
+}
+.content2{
+    background-color: aquamarine;
+    width: 600px;
+   padding: 20px 20px 30px 20px;
+
+
+}
+.content3{
+    background-color: blueviolet;
+    width: 600px;
+    padding-top: 90px;
+
+
+}
+.content4{
+    background-color:green;
+    width: 600px;
+    padding-left: 20px;
+
+}
+.content5{
+    background-color:greenyellow ;
+    width: 600px;
+    padding-right: 20px;
+
+}

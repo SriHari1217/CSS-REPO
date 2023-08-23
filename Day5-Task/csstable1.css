@@ -19,7 +19,8 @@ button{
     background-color: aqua;
     color: white;
     border-radius: 5px;
-    padding: 2px;
+    padding: 10px;
+
 }
 .content1{
     background-color: rgba(28, 27, 27, 0.84);
