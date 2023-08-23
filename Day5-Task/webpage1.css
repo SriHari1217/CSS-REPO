@@ -5,13 +5,16 @@ body{
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: 100% 100%;
+   margin: 40px;
 }
 .content1{
-    width: 50px;
+    width: 40px;
 }
 h2{
-    display: inline;
+    display: inline; 
     color: white;
+    padding-bottom: 5px;
+    
 }
 .head{
     display: flex;
