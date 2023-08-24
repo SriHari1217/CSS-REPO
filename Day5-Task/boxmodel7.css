@@ -1,0 +1,63 @@
+body{
+    background-image: conic-gradient(rgb(201, 90, 90), rgb(72, 72, 197),rgb(220, 220, 109),rgb(215, 167, 77));
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.content1,.content2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius:60% 55% 10% 60%; ;
+
+}
+.box2{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius:55% 60% 60% 10% ;
+
+}
+.box3{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius:60% 10% 55% 60%;
+
+}
+.box4{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10% 60% 60% 55% ;
+
+}
