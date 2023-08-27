@@ -1,0 +1,82 @@
+#navbar{
+    background-color: black;
+    height: 100px;
+    padding: 1px; 
+}
+#head{
+    color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+#head1{
+    color: white;
+    font-size: 60px;
+}
+#anchor{
+    text-decoration: none;
+    color: antiquewhite;
+   margin-right: 30px;
+   margin-top: -75px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+#navbar1{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+#navbar2{
+    background-color: rgb(232, 48, 48);
+    height: 80px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    
+}
+#anchor1{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 20px;
+    margin-right: 40px; 
+    
+}
+.content{
+    background-image: url(https://assetsio.reedpopcdn.com/mad-max-review-1441105913672.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#button1,#button2{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 30px;
+    border-radius: 30px;
+    font-weight: 400px;
+}
+#button1{
+    background-color: rgb(237, 57, 57);
+    color: white;
+    font-weight: 200px;
+    border-color:transparent;
+}
+#button2{
+    background-color: transparent;-webkit-background-clip: padding-box;
+   border-color: white;
+   color: white;
+}
+#anchor1:hover,#anchor:hover{
+    color: blue;
+}
+#button1:active,#button2:active{
+    color:blue;
+
+}

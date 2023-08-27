@@ -1,6 +1,6 @@
 .content1{
-    border: 2px solid gray;
-    background-color: antiquewhite;
+    border: 2px solid transparent;
+    background-color: rgb(245, 134, 36);
 }
 
 .content2{
@@ -11,25 +11,26 @@
     display: flex;
     justify-content: end;   
 }
-a{
-    text-decoration: none;
+#class{
+   text-decoration: none;
     font-size: 20px;
     margin: 18px;
     margin-top: -45px;
-    color: gray;
+    color:rgb(33, 32, 32);
 }
 body{
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg);
-    background-size: 750px 640px;
+    background-size: 750px 100vh;
     background-attachment: fixed;
     background-position: 100% 100%;
     background-repeat: no-repeat;
+   
     
 }
 .content4{
-    background-color: rgb(172, 165, 165);
+    background-color:antiquewhite;
     height: 90vh;
-    width: 761px;
+    width: 770px;
     
     text-align: center;   
     justify-content: center;
@@ -37,3 +38,30 @@ body{
     display: flex;
     flex-direction: column;
 }
+#button1,#button2{
+
+    border-radius: 10px;
+   text-align: center;
+    font-size: 18px; 
+    padding: 15px;
+    
+}
+#button2{
+    background-color: orange;
+    color: white;
+}
+span{
+    font-style: italic;
+    color: orange;
+}
+#class:hover{
+    color: blue;
+
+}
+#button1:hover,#button2:hover{
+    color: blue;
+
+}
+
+
+
