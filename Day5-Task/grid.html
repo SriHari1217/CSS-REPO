@@ -5,10 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        *{
+            border: 0;
+            padding: 0;
+        }
         .contain{
            display: grid;
            gap: 20px;
            grid-template-columns: 1fr 1fr 1fr;
+           grid-template-columns: minmax(200px)
 
         }
         img{
